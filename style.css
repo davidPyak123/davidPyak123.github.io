@@ -1,0 +1,90 @@
+body {
+	 background-color: #B9B7A7;
+	 color: #283909;
+	 font-family: Arial, Georgia, verdana, Times, serif;
+	 background-image: url(Image/wood-wallpaper-25.jpg);
+	 background-repeat: no-repeat;
+	 background-size: 100%;
+}
+
+
+	.container {
+			width: 960px;
+			margin: 0 auto;
+
+	}
+
+	header {
+		background-color: #7E998A;
+		padding-top: 5px;
+		margin: 0 auto;
+		background-image: url(Image/everestpanorama.jpg);
+		background-size: 100%;
+		background-repeat: no-repeat;
+		
+
+	}
+
+	header h1 {
+			text-align: center;
+			margin-right: 15px;
+			color: #E5001A;
+			font-size: 40px;
+			text-transform: uppercase;
+	}
+
+	nav {
+		background-color: #ccc;
+		padding: 10px;
+	}
+
+	nav ul {
+		list-style-type: none;
+		text-align: center;
+
+	}
+
+	nav ul li {
+			display: inline-block;
+			margin: 0 50px;
+			font-size: 20px;
+
+	}
+
+	li a:link, li a:link, li a:active, li a:hover, li a:visited {
+		color: #A33B20;
+		text-decoration: none;
+	}
+
+	li a:hover{
+		text-decoration: underline;
+		font-weight: bold;
+		color: #4062bb;
+	}
+
+footer {
+	text-align: center;
+	font-size: 0.75em;
+	padding: 0.5em 0;
+	color: #000000;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
